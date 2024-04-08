@@ -6,3 +6,14 @@ Screen1 As screen:
         Y: =414
         ZIndex: =1
 
+    Label1 As label:
+        Text: ="Text"
+        X: =393
+        Y: =171
+        ZIndex: =2
+
+    DatePicker1 As datepicker:
+        X: =460
+        Y: =484
+        ZIndex: =3
+

@@ -5,13 +5,15 @@
     "App": 1,
     "Button1": 6,
     "Button2": 7,
+    "DatePicker1": 9,
     "Host": 3,
+    "Label1": 8,
     "Screen1": 4,
     "Screen2": 5
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "04/08/2024 11:51:07",
+  "HeaderLastSavedDateTimeUTC": "04/08/2024 11:54:00",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": true,
@@ -24,13 +26,17 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "button": 0
+    "button": 0,
+    "datepicker": 2,
+    "label": 1
   },
   "OverridablePropertiesEntry": {
     "App": {},
     "Button1": {},
     "Button2": {},
+    "DatePicker1": {},
     "Host": {},
+    "Label1": {},
     "Screen1": {},
     "Screen2": {}
   },
@@ -40,7 +46,9 @@
     "App": 0,
     "Button1": 0,
     "Button2": 0,
+    "DatePicker1": 0,
     "Host": 0,
+    "Label1": 0,
     "Screen1": 0,
     "Screen2": 0
   },
