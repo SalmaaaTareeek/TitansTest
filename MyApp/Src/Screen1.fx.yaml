@@ -1,2 +1,12 @@
 Screen1 As screen:
 
+    Form1 As form:
+        X: =470
+        Y: =268
+        ZIndex: =1
+
+    Rectangle1 As rectangle:
+        X: =233
+        Y: =361
+        ZIndex: =2
+
